@@ -79,8 +79,7 @@
 
 s -->
 </details>
-
-  
+ 
 
 <details>
   <summary>
@@ -96,19 +95,16 @@ s -->
     <br/>
     <div id="quote2022" >
       <i>
-        "To become a great software developer, you must continuously read, learn, and code." - M, 2022 📚
+        "To become a great software developer, you must continuously read, learn, and code." - K, 2022 📚
       </i>
     </div>
     <br/>
     <div id="quote2022" >
       <i>
-        "eat( ); sleep( ); code( ); repeat( );" - M, 2023 🤔
+        "eat( ); sleep( ); code( ); repeat( );" - K, 2022 🤔
       </i>
     </div>
     <br/>
-    <div align="right">
-      <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
-    </div>
   </div>
 </details>
 
