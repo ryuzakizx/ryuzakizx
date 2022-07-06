@@ -52,9 +52,9 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Informatics Management**\
+📆 2020 - 2023\
+📍 **STMIK Palangkaraya** - Central Kalimantan, Indonesia
 
 
 <!--## Skills
