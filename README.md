@@ -56,6 +56,8 @@
 📆 2020 - 2023\
 📍 **STMIK Palangkaraya** - Central Kalimantan, Indonesia
 
+## Experience
+
 
 ## Skills
 <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
