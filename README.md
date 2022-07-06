@@ -42,9 +42,6 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>khamalpradita@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
-</p>
 
 <details>
   <summary>📃 Resume</summary>
