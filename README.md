@@ -80,8 +80,37 @@ s -->
 
   
 
+<details>
+  <summary>
+    💬 Inspirational quotes that keep me motivated to code: 
+  </summary>
+  <br/>
+  <div>
+    <div id="quote2021">
+      <i>
+        "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓
+      </i>
+    </div>
+    <br/>
+    <div id="quote2022" >
+      <i>
+        "To become a great software developer, you must continuously read, learn, and code." - M, 2022 📚
+      </i>
+    </div>
+    <br/>
+    <div id="quote2022" >
+      <i>
+        "eat( ); sleep( ); code( ); repeat( );" - M, 2023 🤔
+      </i>
+    </div>
+    <br/>
+    <div align="right">
+      <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
+    </div>
+  </div>
+</details>
 
-**alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ryuzakizx/ryuzakizx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -91,7 +120,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 
 <!---
 ryuzakizx/ryuzakizx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
