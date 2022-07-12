@@ -60,14 +60,15 @@
     <img src="https://img.shields.io/badge/CodeIgniter 3-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
     <img src="https://img.shields.io/badge/Sql-018bff?style=for-the-badge&logo=microsoft-access&logoColor=white" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />                    
     <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/MySQL-478CBF?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
 <!-- **Operating Systems**
 <img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
