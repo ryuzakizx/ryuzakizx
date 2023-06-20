@@ -16,6 +16,9 @@
   <a href="https://www.instagram.com/10969kmal">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.contohresume.com/contoh_resume.pdf](https://drive.google.com/file/d/1UiHLGIH3IPi2NjAOQBmifPZTY5vSl1eZ/view?usp=sharing">
+  <img src="https://img.shields.io/badge/resume-%230077B5.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
   
 </p>
 
